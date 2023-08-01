@@ -1,12 +1,16 @@
-gensim==4.2.0
+# gensim==4.2.0
+gensim
 nltk
 pandas
 spacy
-scikit-learn==0.24.2
-scikit-optimize>=0.8.1
+# scikit-learn==0.24.2
+scikit-learn
+# scikit-optimize>=0.8.1
+scikit-optimize
 matplotlib
 torch
-numpy==1.23.0
+# numpy==1.23.0
+numpy
 libsvm
 flask
 sentence_transformers
